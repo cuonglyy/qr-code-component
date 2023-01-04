@@ -31,11 +31,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Media Queries
 
 ### What I learned
 
-This challenge gave me the opportunity to review my HTML and CSS. I could use the margin property to center a div, and use absolute positioning and transformation to center a div.
+This challenge gave me the opportunity to review my HTML and CSS. I was able to use css variables to make my code cleaner, use Flexbox to position elements neatly, and implement a max-width to the card container to avoid using media quries.
 
 
 ## Author
